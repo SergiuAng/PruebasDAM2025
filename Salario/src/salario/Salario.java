@@ -25,6 +25,6 @@ public class Salario {
         
 
     }
-    /* public static*/
+    /* pene*/
 }
 /*Public class*/
