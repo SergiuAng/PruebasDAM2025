@@ -9,6 +9,7 @@ public class Salario {
 
 
     public static void main(String[] args) {
+        System.out.println("Me pican los huevos");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Introduce un salario: ");
         int salario = scanner.nextInt();
